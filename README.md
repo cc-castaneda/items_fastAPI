@@ -172,5 +172,4 @@ def delete_item(item_id: int, db: Session = Depends(get_db)):
 - Uso de variables de entorno para configuración
 - Dockerización de la aplicación y la base de datos
 - Uso de Alembic para migraciones de base de datos
-- Uso de dotenv para mejor gestión de credenciales en local
 - Middleware para obtener orígines permitidos en CORS
