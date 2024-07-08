@@ -1,14 +1,12 @@
 # items_fastAPI
 
-Description: Technical test of two services implemented with fastAPI, sqlalchemy and docker
+Description: Services implemented with fastAPI, sqlalchemy and docker
 
 # Documentación
 
 ### Proyecto de Gestión de Items
 
 Este proyecto implementa dos endponts para la gestión de items utilizando fastAPI, SQLAlchemy y postgreSQL, siguiendo los principios de diseño de software moderno, incluyendo la separación y organización de funcionalidades, inyección de dependencias y el patrón repositorio.
-
-El requerimiento no se adjunta, ya que es una prueba técnica y por respeto al responsable de diseñarla.
 
 ### Arquitectura
 
